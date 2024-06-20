@@ -6,7 +6,7 @@ I'm excited to share my latest data analytics project where I explored the autom
 To understand how a car manufacturer can optimize pricing and product development decisions to maximize profitability while meeting consumer demand.
 
 ## Key Insights
-* #Brand Popularity:# 'Ford', 'BMW', and 'Audi' lead the way, while 'Genesis' and 'Spyker' trail behind.
+* Brand Popularity: 'Ford', 'BMW', and 'Audi' lead the way, while 'Genesis' and 'Spyker' trail behind.
 * Fuel Type: 'Flex-fuel (unleaded/E85)' and 'natural gas' engines are top favorites.
 * Engine HP: Most popular HP ranges from 650-700, despite no direct correlation with popularity.
 * Transmission: 'DIRECT_DRIVE' transmissions reign supreme.
