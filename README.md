@@ -1,6 +1,5 @@
 # Impact_of_Car_Features-Microsoft_Excel-Microsoft_Power_BI
 
-## Project Description
 I'm excited to share my latest data analytics project where I explored the automotive industry, focusing on factors that drive consumer demand for cars. By leveraging my skills in Microsoft Excel, Power BI, and PowerPoint, I was able to derive actionable insights that can optimize pricing and product development decisions for maximum profitability.
 
 ## Objective
